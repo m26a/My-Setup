@@ -8,16 +8,18 @@ install [Catppuccin-mocha theme](https://chromewebstore.google.com/detail/catppu
 
 install [dark reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) & do the following : 
 The setup
-dark reader open > more > all settings > advanced ? devtools > advanced > enable design prototype 
+dark reader open > more > all settings > advanced > devtools > advanced > enable design prototype 
 copy & paste the following : 
 
-Background	1e1e2e
-Text	        cdd6f4
-Selection	585b70
+Background:    1e1e2e
+
+Text:          cdd6f4
+
+Selection:	   585b70
 
 Finally, install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) & put [this](https://github.com/catppuccin/userstyles/releases/download/all-userstyles-export/import.json)  json in the manger of stylus 
 
-I also use : Urban vpn [I couldn't find the link] [sponsorblock] (https://chromewebstore.google.com/detail/sponsorblock-%D9%84%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AE%D8%B7/mnjggcdmjocbbbhaepdhchncahnbgone) & finally the [uBlock Origin](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) after Installing it don't forget to turn it on as v2 from [here](brave://settings/extensions/v2)
+I also use : Urban vpn [I couldn't find the link] [sponsorblock](https://chromewebstore.google.com/detail/sponsorblock-%D9%84%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AE%D8%B7/mnjggcdmjocbbbhaepdhchncahnbgone)  [Disable Autoplay for YouTube™](https://chromewebstore.google.com/detail/disable-autoplay-for-yout/dinkeiniijmpjehejhedbciaedblhnnk) & finally the [uBlock Origin](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) after Installing it don't forget to turn it on as v2 from [here](brave://settings/extensions/v2)
 
 Add haram mute extensition 
 
@@ -26,5 +28,9 @@ These are my favs [Gmail](https://mail.google.com/mail/u/0/#inbox) ,[Chatgpt](ht
 This is the list of bookmarks [here](https://drive.google.com/file/d/13Y0fn4360wHwm2ryyjOG3liLRoczce-K/view?usp=sharing)
 
 
+<<<<<<< HEAD:brave/New Text Document.md
 
 enjoooooy 🙌🙌
+=======
+enjoooooy 🙌🙌
+>>>>>>> 5c355e87749f3ac54a7ac655eefdf999efff853e:brave/The config.md
