@@ -1,0 +1,9 @@
+#in config put it
+
+
+
+
+search_shortcut: ALT+SHIFT+SPACE
+
+
+match:

@@ -1,0 +1,28 @@
+#In match put it on the folder
+
+
+
+
+global_vars:
+  - name: clip
+    type: clipboard
+
+matches:
+
+  - trigger: ":حديث"
+    replace: "*{{{clip}}}*"
+
+  - trigger: ":قران"
+    replace: "*﴿{{clip}}﴾*"
+
+  - trigger: ":رقم_السورة"
+    replace: "[{{clip}}]"
+
+  - trigger: ":رقم_الحديث"
+    replace: "> {{clip}}"
+
+  - trigger: ":مقولة"
+    replace: "*«{{clip}}»*"
+  
+  - trigger: ":صلى"
+    replace: "ﷺ"

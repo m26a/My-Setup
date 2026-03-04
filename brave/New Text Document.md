@@ -19,9 +19,12 @@ Finally, install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdb
 
 I also use : Urban vpn [I couldn't find the link] [sponsorblock] (https://chromewebstore.google.com/detail/sponsorblock-%D9%84%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AE%D8%B7/mnjggcdmjocbbbhaepdhchncahnbgone) & finally the [uBlock Origin](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) after Installing it don't forget to turn it on as v2 from [here](brave://settings/extensions/v2)
 
+Add haram mute extensition 
+
 
 These are my favs [Gmail](https://mail.google.com/mail/u/0/#inbox) ,[Chatgpt](https://chatgpt.com/) ,[Youtube](https://www.youtube.com/) ,[Classera](https://learn.classera.com/student/#network%20first) & [The Session](https://us05web.zoom.us/j/81457863130?pwd=hhu4buldEWPk68yxpSdnGbRQvvEs6Y.1) 
 This is the list of bookmarks [here](https://drive.google.com/file/d/13Y0fn4360wHwm2ryyjOG3liLRoczce-K/view?usp=sharing)
+
 
 
 enjoooooy 🙌🙌

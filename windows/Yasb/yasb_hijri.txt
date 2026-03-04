@@ -1,0 +1,20 @@
+#put this in E:/scripts
+install python and pip 
+add pip to path through this video https://youtu.be/oyjOBhwSl-8?si=GdWrWtFS7M63KlXQ
+
+
+
+from hijri_converter import Gregorian
+from datetime import datetime
+import json
+
+def get_dates():
+    today = datetime.today()
+    hijri = Gregorian(today.year, today.month, today.day).to_hijri()
+    hijri_str = f"{hijri.day}/{hijri.month}/{hijri.year}"
+    gregorian_str = today.strftime("%d/%m/%Y")
+    return {"HijriDate": hijri_str, "GregorianDate": gregorian_str}
+
+if __name__ == "__main__":
+    dates = get_dates()
+    print(json.dumps(dates))
