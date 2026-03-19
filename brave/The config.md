@@ -3,7 +3,7 @@ At the first you'll add ([HaramBlur](https://chromewebstore.google.com/detail/ha
 
 
 
-And, now lets start in the "real" customization we'll start from the  beginning with rounded corners from [here](brave://settings/appearance) after doning it & the others 😉 the real action will start...... 
+And, now lets start in the "real" customization we'll start from the  beginning with rounded corners from here : (brave://settings/appearance) after doning it & the others 😉 the real action will start...... 
 install [Catppuccin-mocha theme](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh?hl=en) then , 
 
 install [dark reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) & do the following : 
