@@ -12,3 +12,6 @@ disabling VMware Authorization Service, VMware Autostart Service, VMware DHCP Se
 
 04/06/2026
 Changing the InitialKeyboardIndicators value from 2147483648 to 2147483650 to force Num Lock on.
+
+04/14/2026 
+installing ViGEmBus Driver
